@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/golang/glog v1.1.2
 	github.com/hashicorp/go-version v1.6.0
-	github.com/khulnasoft-lab/bench-common v0.0.0-20230825143523-b803f929a665
+	github.com/khulnasoft-lab/bench-common v0.0.0-20230825190329-df41a80d8ffa
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/viper v1.16.0
 )
