@@ -52,9 +52,9 @@ github.com/khulnasoft-lab/docker-bench/app.go:176.2,181.25 3 1
 github.com/khulnasoft-lab/docker-bench/app.go:186.64,189.16 2 21
 github.com/khulnasoft-lab/docker-bench/app.go:189.16,191.3 1 2
 github.com/khulnasoft-lab/docker-bench/app.go:193.2,193.67 1 19
-github.com/khulnasoft-lab/docker-bench/app.go:193.67,195.17 2 53
+github.com/khulnasoft-lab/docker-bench/app.go:193.67,195.17 2 51
 github.com/khulnasoft-lab/docker-bench/app.go:195.17,197.4 1 0
-github.com/khulnasoft-lab/docker-bench/app.go:198.3,198.43 1 53
+github.com/khulnasoft-lab/docker-bench/app.go:198.3,198.43 1 51
 github.com/khulnasoft-lab/docker-bench/app.go:198.43,201.4 2 17
 github.com/khulnasoft-lab/docker-bench/app.go:204.2,205.16 2 2
 github.com/khulnasoft-lab/docker-bench/app.go:205.16,207.3 1 0
