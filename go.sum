@@ -137,8 +137,6 @@ github.com/inconshreveable/mousetrap v1.1.0 h1:wN+x4NVGpMsO7ErUn/mUI3vEoE6Jt13X2
 github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLfsEA9PFc4w1p2J65bw=
 github.com/jstemmer/go-junit-report v0.0.0-20190106144839-af01ea7f8024/go.mod h1:6v2b51hI/fHJwM22ozAgKL4VKDeJcHhJFhtBdhmNjmU=
 github.com/jstemmer/go-junit-report v0.9.1/go.mod h1:Brl9GWCQeLvo8nXZwPNNblvFj/XSXhF0NWZEnDohbsk=
-github.com/khulnasoft-lab/bench-common v0.0.0-20230825143523-b803f929a665 h1:5O7rtJnGHjndK8akz+1pZsMN94mIOIdm8LBbl9KBeKc=
-github.com/khulnasoft-lab/bench-common v0.0.0-20230825143523-b803f929a665/go.mod h1:FOMbHEcw+/4g1tqfhuW3sDHykwdqw4I5I0KRJ+tjRrs=
 github.com/khulnasoft-lab/bench-common v0.0.0-20230825190329-df41a80d8ffa h1:fJdMuT190FSSPeVUZqm9f+g7dJtP04SzWY7Sw3RSYyU=
 github.com/khulnasoft-lab/bench-common v0.0.0-20230825190329-df41a80d8ffa/go.mod h1:71Si1h7TqHIwuzdR+uhv7jcw71tChbP7oN8+bze5D2k=
 github.com/kisielk/gotool v1.0.0/go.mod h1:XhKaO+MFFWcvkIS/tQcRk01m1F5IRFswLeQ+oQHNcck=
