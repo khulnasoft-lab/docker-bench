@@ -2,16 +2,15 @@ package main
 
 import (
 	"fmt"
-	"io/ioutil"
 	"os"
 	"os/exec"
 	"path/filepath"
 	"strings"
 
-	"github.com/khulnasoft-lab/bench-common/check"
-	"github.com/khulnasoft-lab/bench-common/util"
 	"github.com/golang/glog"
 	"github.com/hashicorp/go-version"
+	"github.com/khulnasoft-lab/bench-common/check"
+	"github.com/khulnasoft-lab/bench-common/util"
 	"github.com/spf13/cobra"
 )
 
