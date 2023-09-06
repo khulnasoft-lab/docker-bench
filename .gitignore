@@ -2,5 +2,3 @@
 docker-bench
 coverage.txt
 dist
-
-dist/
